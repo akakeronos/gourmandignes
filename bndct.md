@@ -1,5 +1,5 @@
 ---
 title: Recettes
-label: un truc qui apparaît
+label: à faire soi-même
 owner: akakeronos/recette-gourmandignes
 ---
